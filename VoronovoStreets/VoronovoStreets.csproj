@@ -1,0 +1,218 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="InfoAbautStreats\**" />
+    <EmbeddedResource Remove="InfoAbautStreats\**" />
+    <None Remove="InfoAbautStreats\**" />
+    <Page Remove="InfoAbautStreats\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Benyakoni\1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Benyakoni\2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Benyakoni\3.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Benyakoni\4.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Bolteniki\1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Bolteniki\2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Bolteniki\3.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Bolteniki\4.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Gayty\1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Gayty\2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Gayty\3.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Gayty\4.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Kalinina\1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Kalinina\2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Kanarchika\1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Kanarchika\2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Litovchika\1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Litovchika\2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Litovchika\3.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Litovchika\4.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Nacha\1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Nacha\2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Oktybrskaya\1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Oktybrskaya\2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Ossova\1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Ossova\2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Ossova\3.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Ossova\4.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\perKalinina\1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\perKalinina\2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\perKalinina\3.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\perKalinina\4.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\PervogoMay\1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\PervogoMay\2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Radun\1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Radun\2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Radun\3.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Radun\4.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Semashko\1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Semashko\2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Shauri\1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Shauri\2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Sovetskaya\1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Sovetskaya\2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Sovetskaya\3.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Sovetskaya\4.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Sovetskaya\5.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Trokeli\1.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Trokeli\2.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Trokeli\3.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Trokeli\4.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Ubileynaya\1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Ubileynaya\2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Voronovo\1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Zabolot\1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Zabolot\2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Zabolot\3.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="View\Images\Nowss.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HandyControls" Version="3.5.2" />
+    <PackageReference Include="MaterialDesignColors" Version="3.0.0" />
+    <PackageReference Include="MaterialDesignThemes" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Maps.MapControl.WPF" Version="1.0.0.3" />
+    <PackageReference Include="Microsoft.Office.Interop.Word" Version="15.0.4797.1004" />
+  </ItemGroup>
+	
+  <ItemGroup>
+    <Resource Include="View\Images\gerb.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="View\Images\ViewStreat.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+	
+	
+
+
+</Project>
