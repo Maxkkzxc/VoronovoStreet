@@ -4,7 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:hc="https://handyorg.github.io/handycontrol"
-        Icon="E:\Projects\WPF\VoronovoStreets\VoronovoStreets\View\Images\gerb.png"
+        Icon="\View\Images\gerb.png"
         mc:Ignorable="d"
         Title="PreviewStreatInformationWindow" ResizeMode="NoResize" WindowState="Maximized" Background="#FF3A3A3A" Closed="Window_Closed">
     <Grid>

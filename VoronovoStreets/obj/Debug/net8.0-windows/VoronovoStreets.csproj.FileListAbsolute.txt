@@ -34,3 +34,6 @@ E:\Projects\WPF\VoronovoStreets\VoronovoStreets\obj\Debug\net8.0-windows\Windows
 E:\Projects\WPF\VoronovoStreets\VoronovoStreets\obj\Debug\net8.0-windows\Windows\PreviewStreatWindow.g.cs
 E:\Projects\WPF\VoronovoStreets\VoronovoStreets\obj\Debug\net8.0-windows\View\Controls\MapPointControl.baml
 E:\Projects\WPF\VoronovoStreets\VoronovoStreets\obj\Debug\net8.0-windows\App.baml
+E:\Projects\WPF\VoronovoStreets\VoronovoStreets\obj\Debug\net8.0-windows\Windows\VoronovoHistoryWindow.g.cs
+E:\Projects\WPF\VoronovoStreets\VoronovoStreets\obj\Debug\net8.0-windows\Windows\VoronovoHistoryWindow.baml
+E:\Projects\WPF\VoronovoStreets\VoronovoStreets\obj\Debug\net8.0-windows\VoronovoStreets.sourcelink.json

@@ -7,6 +7,11 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Windows\VoronovoHistoryWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
@@ -20,6 +25,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Windows\PreviewStreatWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\VoronovoHistoryWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

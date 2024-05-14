@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "E:\\Projects\\WPF\\VoronovoStreets\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{674BA6B6-27ED-4FD9-8082-D64DB1D8C903}|VoronovoStreets\\VoronovoStreets.csproj|e:\\projects\\wpf\\voronovostreets\\voronovostreets\\voronovostreets.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{674BA6B6-27ED-4FD9-8082-D64DB1D8C903}|VoronovoStreets\\VoronovoStreets.csproj|solutionrelative:voronovostreets\\voronovostreets.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{674BA6B6-27ED-4FD9-8082-D64DB1D8C903}|VoronovoStreets\\VoronovoStreets.csproj|e:\\projects\\wpf\\voronovostreets\\voronovostreets\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{674BA6B6-27ED-4FD9-8082-D64DB1D8C903}|VoronovoStreets\\VoronovoStreets.csproj|solutionrelative:voronovostreets\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674BA6B6-27ED-4FD9-8082-D64DB1D8C903}|VoronovoStreets\\VoronovoStreets.csproj|e:\\projects\\wpf\\voronovostreets\\voronovostreets\\windows\\voronovohistorywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{674BA6B6-27ED-4FD9-8082-D64DB1D8C903}|VoronovoStreets\\VoronovoStreets.csproj|solutionrelative:voronovostreets\\windows\\voronovohistorywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674BA6B6-27ED-4FD9-8082-D64DB1D8C903}|VoronovoStreets\\VoronovoStreets.csproj|e:\\projects\\wpf\\voronovostreets\\voronovostreets\\windows\\voronovohistorywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674BA6B6-27ED-4FD9-8082-D64DB1D8C903}|VoronovoStreets\\VoronovoStreets.csproj|solutionrelative:voronovostreets\\windows\\voronovohistorywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674BA6B6-27ED-4FD9-8082-D64DB1D8C903}|VoronovoStreets\\VoronovoStreets.csproj|e:\\projects\\wpf\\voronovostreets\\voronovostreets\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674BA6B6-27ED-4FD9-8082-D64DB1D8C903}|VoronovoStreets\\VoronovoStreets.csproj|solutionrelative:voronovostreets\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{674BA6B6-27ED-4FD9-8082-D64DB1D8C903}|VoronovoStreets\\VoronovoStreets.csproj|e:\\projects\\wpf\\voronovostreets\\voronovostreets\\windows\\previewstreatwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{674BA6B6-27ED-4FD9-8082-D64DB1D8C903}|VoronovoStreets\\VoronovoStreets.csproj|solutionrelative:voronovostreets\\windows\\previewstreatwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\obj\\Debug\\net8.0-windows\\Windows\\VoronovoHistoryWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VoronovoStreets\\obj\\Debug\\net8.0-windows\\Windows\\VoronovoHistoryWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674BA6B6-27ED-4FD9-8082-D64DB1D8C903}|VoronovoStreets\\VoronovoStreets.csproj|e:\\projects\\wpf\\voronovostreets\\voronovostreets\\voronovostreets.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{674BA6B6-27ED-4FD9-8082-D64DB1D8C903}|VoronovoStreets\\VoronovoStreets.csproj|solutionrelative:voronovostreets\\voronovostreets.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VoronovoStreets\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674BA6B6-27ED-4FD9-8082-D64DB1D8C903}|VoronovoStreets\\VoronovoStreets.csproj|e:\\projects\\wpf\\voronovostreets\\voronovostreets\\windows\\previewstreatwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{674BA6B6-27ED-4FD9-8082-D64DB1D8C903}|VoronovoStreets\\VoronovoStreets.csproj|solutionrelative:voronovostreets\\windows\\previewstreatwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674BA6B6-27ED-4FD9-8082-D64DB1D8C903}|VoronovoStreets\\VoronovoStreets.csproj|e:\\projects\\wpf\\voronovostreets\\voronovostreets\\windows\\previewstreatinformationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{674BA6B6-27ED-4FD9-8082-D64DB1D8C903}|VoronovoStreets\\VoronovoStreets.csproj|solutionrelative:voronovostreets\\windows\\previewstreatinformationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674BA6B6-27ED-4FD9-8082-D64DB1D8C903}|VoronovoStreets\\VoronovoStreets.csproj|e:\\projects\\wpf\\voronovostreets\\voronovostreets\\windows\\previewstreatinformationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674BA6B6-27ED-4FD9-8082-D64DB1D8C903}|VoronovoStreets\\VoronovoStreets.csproj|solutionrelative:voronovostreets\\windows\\previewstreatinformationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -30,77 +66,187 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VoronovoHistoryWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\Windows\\VoronovoHistoryWindow.xaml.cs",
+              "RelativeDocumentMoniker": "VoronovoStreets\\Windows\\VoronovoHistoryWindow.xaml.cs",
+              "ToolTip": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\Windows\\VoronovoHistoryWindow.xaml.cs",
+              "RelativeToolTip": "VoronovoStreets\\Windows\\VoronovoHistoryWindow.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:59:58.181Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PreviewStreatWindow.xaml.cs",
-              "DocumentMoniker": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\Windows\\PreviewStreatWindow.xaml.cs",
-              "RelativeDocumentMoniker": "VoronovoStreets\\Windows\\PreviewStreatWindow.xaml.cs",
-              "ToolTip": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\Windows\\PreviewStreatWindow.xaml.cs",
-              "RelativeToolTip": "VoronovoStreets\\Windows\\PreviewStreatWindow.xaml.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAvwFAAAAA/AAAA",
+              "Title": "VoronovoHistoryWindow.xaml",
+              "DocumentMoniker": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\Windows\\VoronovoHistoryWindow.xaml",
+              "RelativeDocumentMoniker": "VoronovoStreets\\Windows\\VoronovoHistoryWindow.xaml",
+              "ToolTip": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\Windows\\VoronovoHistoryWindow.xaml",
+              "RelativeToolTip": "VoronovoStreets\\Windows\\VoronovoHistoryWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T15:59:16.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.g.i.cs",
+              "DocumentMoniker": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
+              "RelativeDocumentMoniker": "VoronovoStreets\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
+              "ToolTip": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
+              "RelativeToolTip": "VoronovoStreets\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwCgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T19:21:05.894Z",
+              "WhenOpened": "2024-05-14T15:57:56.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VoronovoHistoryWindow.g.i.cs",
+              "DocumentMoniker": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\obj\\Debug\\net8.0-windows\\Windows\\VoronovoHistoryWindow.g.i.cs",
+              "RelativeDocumentMoniker": "VoronovoStreets\\obj\\Debug\\net8.0-windows\\Windows\\VoronovoHistoryWindow.g.i.cs",
+              "ToolTip": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\obj\\Debug\\net8.0-windows\\Windows\\VoronovoHistoryWindow.g.i.cs",
+              "RelativeToolTip": "VoronovoStreets\\obj\\Debug\\net8.0-windows\\Windows\\VoronovoHistoryWindow.g.i.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAjwGIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:56:43.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VoronovoStreets",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "VoronovoStreets\\MainWindow.xaml",
+              "ToolTip": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\MainWindow.xaml",
+              "RelativeToolTip": "VoronovoStreets\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T15:17:37.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "VoronovoStreets\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\MainWindow.xaml.cs",
+              "RelativeToolTip": "VoronovoStreets\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:08:39.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VoronovoStreets.csproj",
               "DocumentMoniker": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\VoronovoStreets.csproj",
               "RelativeDocumentMoniker": "VoronovoStreets\\VoronovoStreets.csproj",
               "ToolTip": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\VoronovoStreets.csproj",
               "RelativeToolTip": "VoronovoStreets\\VoronovoStreets.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAANoAAAAAAAAA",
+              "ViewState": "AQIAAPsAAAAAAAAAAAAAABIBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-05-12T19:15:25.883Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "PreviewStreatWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\Windows\\PreviewStreatWindow.xaml.cs",
+              "RelativeDocumentMoniker": "VoronovoStreets\\Windows\\PreviewStreatWindow.xaml.cs",
+              "ToolTip": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\Windows\\PreviewStreatWindow.xaml.cs",
+              "RelativeToolTip": "VoronovoStreets\\Windows\\PreviewStreatWindow.xaml.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAvwFAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:21:05.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PreviewStreatInformationWindow.xaml",
+              "DocumentMoniker": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\Windows\\PreviewStreatInformationWindow.xaml",
+              "RelativeDocumentMoniker": "VoronovoStreets\\Windows\\PreviewStreatInformationWindow.xaml",
+              "ToolTip": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\Windows\\PreviewStreatInformationWindow.xaml",
+              "RelativeToolTip": "VoronovoStreets\\Windows\\PreviewStreatInformationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T15:16:34.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PreviewStreatWindow.xaml",
+              "DocumentMoniker": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\Windows\\PreviewStreatWindow.xaml",
+              "RelativeDocumentMoniker": "VoronovoStreets\\Windows\\PreviewStreatWindow.xaml",
+              "ToolTip": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\Windows\\PreviewStreatWindow.xaml",
+              "RelativeToolTip": "VoronovoStreets\\Windows\\PreviewStreatWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T15:16:33.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PreviewStreatInformationWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\Windows\\PreviewStreatInformationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "VoronovoStreets\\Windows\\PreviewStreatInformationWindow.xaml.cs",
+              "ToolTip": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\Windows\\PreviewStreatInformationWindow.xaml.cs",
+              "RelativeToolTip": "VoronovoStreets\\Windows\\PreviewStreatInformationWindow.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:19:02.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Microsoft.WinFX.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk.WindowsDesktop\\targets\\Microsoft.WinFX.targets",
               "ViewState": "AQIAAJ0CAAAAAAAAAAAEwMECAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-05-12T18:33:22.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T18:33:22.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "FileSystemEnumerator.Windows.cs",
               "DocumentMoniker": "C:\\Users\\Kozik\\AppData\\Local\\SourceServer\\1751635e77c04a50304967e2784baabaf3bd5662ea277661069faa9aa8b9886d\\src\\libraries\\System.Private.CoreLib\\src\\System\\IO\\Enumeration\\FileSystemEnumerator.Windows.cs",
               "ToolTip": "C:\\Users\\Kozik\\AppData\\Local\\SourceServer\\1751635e77c04a50304967e2784baabaf3bd5662ea277661069faa9aa8b9886d\\src\\libraries\\System.Private.CoreLib\\src\\System\\IO\\Enumeration\\FileSystemEnumerator.Windows.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAmwLwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T17:57:58.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T17:57:58.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "XamlReader.cs",
               "DocumentMoniker": "C:\\Users\\Kozik\\AppData\\Local\\Temp\\.vsdbgsrc\\77ad6aa5c93f1fb49df07609b0895668d889865a5ddc1bac25f418ae363ba6f9\\XamlReader.cs",
               "ToolTip": "C:\\Users\\Kozik\\AppData\\Local\\Temp\\.vsdbgsrc\\77ad6aa5c93f1fb49df07609b0895668d889865a5ddc1bac25f418ae363ba6f9\\XamlReader.cs",
               "ViewState": "AQIAAMUBAAAAAAAAAAArwNkBAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T16:21:47.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T16:21:47.207Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "readme.txt",
               "DocumentMoniker": "C:\\Users\\Kozik\\.nuget\\packages\\handycontrols\\3.5.2\\readme.txt",
               "ToolTip": "C:\\Users\\Kozik\\.nuget\\packages\\handycontrols\\3.5.2\\readme.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-05-11T16:00:59.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T16:00:59.146Z"
             }
           ]
         }

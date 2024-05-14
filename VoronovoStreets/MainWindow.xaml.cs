@@ -21,10 +21,14 @@ namespace VoronovoStreets
         {
             InitializeComponent();
         }
-
         private void PreviewStrerButton_Click(object sender, RoutedEventArgs e)
         {
             new PreviewStreatWindow().ShowDialog();
+        }
+
+        private void VoronovoHistory_Click(object sender, RoutedEventArgs e)
+        {
+            new VoronovoHistoryWindow().ShowDialog();
         }
     }
 }

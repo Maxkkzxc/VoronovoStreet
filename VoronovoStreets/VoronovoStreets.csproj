@@ -16,6 +16,65 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="View\Images\nacza.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\VoronovoHistory\cerkov.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\VoronovoHistory\flag.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\VoronovoHistory\Karta.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\VoronovoHistory\kostel.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\VoronovoHistory\kostel2.JPG">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\VoronovoHistory\sud.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\VoronovoHistory\vezd.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\VoronovoHistory\voronovo1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\VoronovoHistory\Voronovo2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net8.0-windows\InfoAbautStreats\TextInfo\Benyakoni.rtf" />
+    <None Include="bin\Debug\net8.0-windows\InfoAbautStreats\TextInfo\Bolteniki.rtf" />
+    <None Include="bin\Debug\net8.0-windows\InfoAbautStreats\TextInfo\Gayty.rtf" />
+    <None Include="bin\Debug\net8.0-windows\InfoAbautStreats\TextInfo\Kalinina.rtf" />
+    <None Include="bin\Debug\net8.0-windows\InfoAbautStreats\TextInfo\Kanarchika.rtf" />
+    <None Include="bin\Debug\net8.0-windows\InfoAbautStreats\TextInfo\Litovchika.rtf" />
+    <None Include="bin\Debug\net8.0-windows\InfoAbautStreats\TextInfo\Nacha.rtf" />
+    <None Include="bin\Debug\net8.0-windows\InfoAbautStreats\TextInfo\Oktybrskaya.rtf" />
+    <None Include="bin\Debug\net8.0-windows\InfoAbautStreats\TextInfo\Ossova.rtf" />
+    <None Include="bin\Debug\net8.0-windows\InfoAbautStreats\TextInfo\perKalinina.rtf" />
+    <None Include="bin\Debug\net8.0-windows\InfoAbautStreats\TextInfo\PervogoMay.rtf" />
+    <None Include="bin\Debug\net8.0-windows\InfoAbautStreats\TextInfo\Radun.rtf" />
+    <None Include="bin\Debug\net8.0-windows\InfoAbautStreats\TextInfo\Semashko.rtf" />
+    <None Include="bin\Debug\net8.0-windows\InfoAbautStreats\TextInfo\Shauri.rtf" />
+    <None Include="bin\Debug\net8.0-windows\InfoAbautStreats\TextInfo\Sovetskaya.rtf" />
+    <None Include="bin\Debug\net8.0-windows\InfoAbautStreats\TextInfo\Trokeli.rtf" />
+    <None Include="bin\Debug\net8.0-windows\InfoAbautStreats\TextInfo\Ubileynaya.rtf" />
+    <None Include="bin\Debug\net8.0-windows\InfoAbautStreats\TextInfo\Voronovo.rtf" />
+    <None Include="bin\Debug\net8.0-windows\InfoAbautStreats\TextInfo\Zabolot.rtf" />
+    <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\VoronovoHistory\VoronovoHistory.rtf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
     <Resource Include="bin\Debug\net8.0-windows\InfoAbautStreats\Images\Benyakoni\1.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
@@ -190,12 +249,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="View\Images\Nowss.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Resource>
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="HandyControls" Version="3.5.2" />
     <PackageReference Include="MaterialDesignColors" Version="3.0.0" />
     <PackageReference Include="MaterialDesignThemes" Version="5.0.0" />
@@ -205,6 +258,9 @@
 	
   <ItemGroup>
     <Resource Include="View\Images\gerb.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="View\Images\nacza.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
     <Resource Include="View\Images\ViewStreat.jpg">
