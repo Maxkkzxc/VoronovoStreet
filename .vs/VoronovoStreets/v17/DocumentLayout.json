@@ -66,12 +66,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -82,8 +78,7 @@
               "RelativeToolTip": "VoronovoStreets\\Windows\\VoronovoHistoryWindow.xaml.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAA1wBAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T15:59:58.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T15:59:58.181Z"
             },
             {
               "$type": "Document",
@@ -94,8 +89,7 @@
               "ToolTip": "E:\\Projects\\WPF\\VoronovoStreets\\VoronovoStreets\\Windows\\VoronovoHistoryWindow.xaml",
               "RelativeToolTip": "VoronovoStreets\\Windows\\VoronovoHistoryWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-14T15:59:16.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T15:59:16.438Z"
             },
             {
               "$type": "Document",
@@ -107,8 +101,7 @@
               "RelativeToolTip": "VoronovoStreets\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAgwCgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T15:57:56.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T15:57:56.106Z"
             },
             {
               "$type": "Document",
@@ -120,8 +113,7 @@
               "RelativeToolTip": "VoronovoStreets\\obj\\Debug\\net8.0-windows\\Windows\\VoronovoHistoryWindow.g.i.cs",
               "ViewState": "AQIAAEsAAAAAAAAAAAAjwGIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T15:56:43.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T15:56:43.77Z"
             },
             {
               "$type": "Document",
@@ -145,8 +137,7 @@
               "RelativeToolTip": "VoronovoStreets\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAcwBUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T15:08:39.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T15:08:39.568Z"
             },
             {
               "$type": "Document",
@@ -158,8 +149,7 @@
               "RelativeToolTip": "VoronovoStreets\\VoronovoStreets.csproj",
               "ViewState": "AQIAAPsAAAAAAAAAAAAAABIBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-12T19:15:25.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T19:15:25.883Z"
             },
             {
               "$type": "Document",
@@ -171,8 +161,7 @@
               "RelativeToolTip": "VoronovoStreets\\Windows\\PreviewStreatWindow.xaml.cs",
               "ViewState": "AQIAADgAAAAAAAAAAAAvwFAAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T19:21:05.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T19:21:05.894Z"
             },
             {
               "$type": "Document",
